@@ -1,0 +1,6 @@
+c:\users\sergen\documents\visual studio 2015\Projects\RSAProjectSSIYLİ\RSAProjectSSIYLİ\bin\Debug\RSAProjectSSIYLİ.exe.config
+c:\users\sergen\documents\visual studio 2015\Projects\RSAProjectSSIYLİ\RSAProjectSSIYLİ\obj\Debug\RSAProjectSSIYLİ.csprojResolveAssemblyReference.cache
+c:\users\sergen\documents\visual studio 2015\Projects\RSAProjectSSIYLİ\RSAProjectSSIYLİ\bin\Debug\RSAProjectSSIYLİ.exe
+c:\users\sergen\documents\visual studio 2015\Projects\RSAProjectSSIYLİ\RSAProjectSSIYLİ\bin\Debug\RSAProjectSSIYLİ.pdb
+c:\users\sergen\documents\visual studio 2015\Projects\RSAProjectSSIYLİ\RSAProjectSSIYLİ\obj\Debug\RSAProjectSSIYLİ.exe
+c:\users\sergen\documents\visual studio 2015\Projects\RSAProjectSSIYLİ\RSAProjectSSIYLİ\obj\Debug\RSAProjectSSIYLİ.pdb
